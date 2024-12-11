@@ -5,17 +5,14 @@ Focus on clean HTML structure without using CSS.
 
 ## 1. Lists
 - Practice ordered and unordered lists.
-- Use different styles and create nested lists.
 
 ## 2. Tables
 - Create simple tables with headers, rows, and cells.
-- Experiment with borders and nested tables.
 
 ## 3. Forms
 - Build forms with inputs, dropdowns, and radio buttons.
-- Organize forms using labels and fieldsets.
 
 ## Resources
-- [HTML Lists Example](https://drive.google.com/file/d/1ucW03xMHWaZWBnjYedwtNRjwhpcDd0-z/view?usp=drive_link)  
-- [HTML Tables Example](https://drive.google.com/file/d/1-OS3-4ZI_bZkAOz1EqBagBrhiJ4c9LtN/view?usp=drive_link)  
+- [HTML Lists Example](https://drive.google.com/file/d/1ucW03xMHWaZWBnjYedwtNRjwhpcDd0-z/view?usp=drive_link)
+- [HTML Tables Example](https://drive.google.com/file/d/1-OS3-4ZI_bZkAOz1EqBagBrhiJ4c9LtN/view?usp=drive_link)
 - [HTML Forms Example](https://drive.google.com/file/d/1Agp5dbxq-V_PTVTeA2Zl-wgNNVSdP0tM/view?usp=drive_link)
