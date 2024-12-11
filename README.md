@@ -1,5 +1,8 @@
 # Homework: HTML Basics - Lists, Tables, and Forms
 
+## Goal
+Focus on clean HTML structure without using CSS.
+
 ## 1. Lists
 - Practice ordered and unordered lists.
 - Use different styles and create nested lists.
@@ -12,5 +15,7 @@
 - Build forms with inputs, dropdowns, and radio buttons.
 - Organize forms using labels and fieldsets.
 
-## Goal
-Focus on clean HTML structure without using CSS.
+## Resources
+- [HTML Lists Example](https://drive.google.com/file/d/1ucW03xMHWaZWBnjYedwtNRjwhpcDd0-z/view?usp=drive_link)  
+- [HTML Tables Example](https://drive.google.com/file/d/1-OS3-4ZI_bZkAOz1EqBagBrhiJ4c9LtN/view?usp=drive_link)  
+- [HTML Forms Example](https://drive.google.com/file/d/1Agp5dbxq-V_PTVTeA2Zl-wgNNVSdP0tM/view?usp=drive_link)
